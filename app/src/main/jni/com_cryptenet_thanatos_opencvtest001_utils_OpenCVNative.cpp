@@ -13,11 +13,11 @@ JNIEXPORT jint JNICALL Java_com_cryptenet_thanatos_opencvtest001_utils_OpenCVNat
     retVal = (jint) convert;
 
     return retVal;
-  }
+}
 
-  int toGray(Mat img, Mat& gray) {
-    cvtColor(img, gray, CV_RGBA2GRAY);
-    if (img.rows == gray.rows && img.cols == gray.cols)
-        return 1;
-    return 0;
-  }
+int toGray(Mat img, Mat& gray) {
+cvtColor(img, gray, CV_RGBA2GRAY);
+if (img.rows == gray.rows && img.cols == gray.cols)
+    return 1;
+return 0;
+}
