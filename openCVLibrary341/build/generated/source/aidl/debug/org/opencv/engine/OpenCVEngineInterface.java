@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: /media/thanatos/Workspace/android/test/OpenCVTest001/openCVLibrary341/src/main/aidl/org/opencv/engine/OpenCVEngineInterface.aidl
+ * Original file: D:\\dLab\\andStudio\\CodeLab\\opencv-face-detection\\openCVLibrary341\\src\\main\\aidl\\org\\opencv\\engine\\OpenCVEngineInterface.aidl
  */
 package org.opencv.engine;
 /**

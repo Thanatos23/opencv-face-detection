@@ -38,6 +38,8 @@ public class MainActivity extends AppCompatActivity
     BaseLoaderCallback loaderCallback;
     Mat rgbaMat, grayMat;
 
+    //cc nasif
+
     static {
         System.loadLibrary("OpenCVLibs");
     }
